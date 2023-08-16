@@ -1,0 +1,33 @@
+#header{
+	background-color:blue;
+	margin:20px;
+	padding:20px;
+	border-bottom:7px;
+	justify-content: center;
+	text-align:right;
+}
+
+#dipesh{
+	background-color: blueviolet;
+	margin: 20px;
+	padding: 20px;
+	text-justify: inherit;
+	color: white;
+	border border-bottom: 7px;
+	font-family: Arial;
+	text-align: right;
+}
+
+.h2{
+	text-align: center;
+}
+
+#kumal{
+	background-color: orange;
+	margin: 20px;
+	padding: 20px;
+	border-bottom: 7px;
+	color:white ;
+	text-align :right;
+	justify-content: center;
+}
